@@ -24,4 +24,17 @@ short variable_short = (short) variable_int;
 byte variable_byte = (byte) variable_short;
 ```
 Cuando se convierte numeros primitivos con decimales o de punto flotante como (float, double) en numeros primitivos enteros,
-el número se redondea hacia abajo
+**el número se redondea hacia abajo**
+
+```java
+double variable_double = 35.9d;
+int variable_int = (int) variable_double;
+System.out.println("Variable double --> "+variable_double);
+System.out.println("Variable  Casteada a int --> "+variable_int);
+```
+Salida: 
+```java
+Variable double --> 35.9
+Variable  Casteada a int --> 35
+
+```
