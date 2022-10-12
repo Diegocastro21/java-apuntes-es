@@ -4,7 +4,7 @@ Crea un nuevo archivo en tu editor de texto o IDE llamado
 `
 HolaMundo.java
 `
-Y Luego pega este bloque de codigo en el archivo y guardelo:
+Y Luego pega este bloque de codigo en el archivo y guardelo
 ```java
 public class HolaMundo {
     public static void main(String [] args){
