@@ -14,3 +14,6 @@ Apuntes sobre el lenguaje de programación Java, desde temas básicos a temas av
   * [Sección 3.1: Uso De Un Setter O Getter Para Implementar Una Restricción](Capitulo-03/GetterYSetterImplementarRestriccion.md)
   * [Sección 3.2: ¿Por Qué Utilizar Getters Y Setters?](Capitulo-03/PorqueUsarGetterYSetter.md)
   * [Sección 3.3: Agregar Getters y Setters](Capitulo-03/AgregarGetterSetter.md)
+* **Capítulo 4: Tipo De Datos De Referencia**
+  * [Sección 4.1: Desreferenciado](Capitulo-04/Desreferenciando.md)
+  * [Sección 4.2: Instanciación De Un Tipo De Referencia](Capitulo-04/InstanciaTipoReferencia.md)
