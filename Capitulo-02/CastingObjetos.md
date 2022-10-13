@@ -9,7 +9,7 @@ El casting explícito tiene que hacerse cuando el tipo de origen es extendido o 
 (casting a un subtipo). Esto puede producir una excepción en tiempo de ejecución (`ClassCastException`) cuando el objeto que se está casteando no es del tipo de destino (o del subtipo de destino)
 
 
-```sql 
+```java
 Float variable_float = new Float(32.0f);
 
 Number n = variable_float;  //Implicita (Debido a que Float Extiende de Number)
