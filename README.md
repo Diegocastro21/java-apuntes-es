@@ -3,10 +3,14 @@ Apuntes sobre el lenguaje de programación Java, desde temas básicos a temas av
 
 ## Contenido
 
-* [Capitulo 1: Creando Nuestro Primer Programa En Java](Capitulo-01/PrimerProgramaEnJava.md)
+* [Capítulo 1: Creando Nuestro Primer Programa En Java](Capitulo-01/PrimerProgramaEnJava.md)
 * **Capítulo 2: Tipos De Conversion**
   * [Sección 2.1: Casting de Numeros Primitivos](Capitulo-02/CasteoNumerosPrimitivos.md)
   * [Sección 2.2: Utilización De Numeros Basicos](Capitulo-02/UtilizacionNumerosBasicos.md)
   * [Sección 2.3: Casting Tipos De Datos Primitivos No Numericos](Capitulo-02/CastingPrimitivosNoNumericos.md)
   * [Sección 2.4: Casting De Objetos](Capitulo-02/CastingObjetos.md)
   * [Sección 2.5: Comprobación Si Un Objeto Puede Ser Casteado Usando instanceof ](Capitulo-02/TestingCastingInstanceOf.md)
+* **Capítulo 3: Getters Y Setters**
+  * [Sección 3.1: Uso De Un Setter O Getter Para Implementar Una Restricción](Capitulo-03/GetterYSetterImplementarRestriccion.md)
+  * [Sección 3.2: ¿Por Qué Utilizar Getters Y Setters?](Capitulo-03/PorqueUsarGetterYSetter.md)
+  * [Sección 3.3: Agregar Getters y Setters](Capitulo-03/AgregarGetterSetter.md)
