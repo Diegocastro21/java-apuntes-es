@@ -33,3 +33,13 @@ class DateTimeFormat {
 
 }
 ```
+Salida:
+```java
+2014-03-25T01:30
+2016-05-15T13:55
+Sun 30, October, 2022 13:20
+2022-10-30T13:20:14.433539
+```
+
+Un aviso importante, en lugar de usar patrones personalizados, es una buena práctica usar formateadores predefinidos. 
+Tu código se ve más claro y el uso de ISO8061 definitivamente te ayudará a largo plazo.
