@@ -1,4 +1,4 @@
-# Una Fecha De Salida Básica
+# Una Salida Date Básica
 
 Usando el siguiente código con la cadena de formato `yyyy/MM/dd hh:mm.ss`, recibiremos la siguiente salida:
 

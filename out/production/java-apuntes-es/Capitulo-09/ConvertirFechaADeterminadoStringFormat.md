@@ -1,4 +1,4 @@
-# Convertir La Fecha A Un Determinado String Format
+# Convertiendo Un Date A Un Determinado String Format
 
 `Format()` de la clase `SimpleDateFormat` ayuda a convertir un objeto `Date` en un determinado objeto `String` de
 formato utilizando la _pattern string_ suministrada.

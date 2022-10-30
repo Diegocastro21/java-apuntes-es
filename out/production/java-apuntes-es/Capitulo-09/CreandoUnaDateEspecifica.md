@@ -1,4 +1,4 @@
-# Crear Una Fecha Específica
+# Creando Una Date Específica
 
 Si bien la clase Java Date tiene varios constructores, notarás que la mayoría están obsoletas. La única forma aceptable de crear una instancia de Date directamente es usando el constructor vacío o pasando un largo (número de milisegundos desde la hora base estándar). Ninguno de los dos es útil a menos que esté buscando la fecha actual o ya tenga otra instancia de fecha a mano.
 
