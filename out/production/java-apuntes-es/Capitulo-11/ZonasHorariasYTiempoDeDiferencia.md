@@ -22,3 +22,10 @@ public class Test {
     }
 }
 ```
+Salida:
+```java
+Current Time : 14:26:30.225132
+Berlin Time : 20:26:30.225159
+Brazil Time : 16:26:30.226078
+Minutes Between Berlin and Brazil : 239mins
+```
