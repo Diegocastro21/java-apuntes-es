@@ -62,6 +62,13 @@ Apuntes sobre el lenguaje de programación Java, desde temas básicos a temas av
   * [Sección 10.6: Formato de Date y Time](Capitulo-10/FormatoDateTime.md)
   * [Sección 10.7: Manipulaciones De Date Simples](Capitulo-10/ManipulacionSimpleDeDate.md)
 * **Capítulo 11: LocalTime**
+  * [Sección 11.1: LocalTime](Capitulo-11/LocalTime.md)
+  * [Sección 11.2: Cantidad De Tiempo Entre Dos LocalTime](Capitulo-11/CantidadDeTiempoEntreDosLocalTime.md)
+  * [Sección 11.3: Intro](Capitulo-11/Intro.md)
+  * [Sección 11.4: Modificación del Time](Capitulo-11/ModificacionTime.md)
+  * [Sección 11.5: Zonas Horarias Y Su Tiempo De Diferencia](Capitulo-11/ZonasHorariasYTiempoDeDiferencia.md)
+* **Capítulo 12: Literals**
   * 
+  
   
   
