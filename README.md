@@ -92,6 +92,20 @@ Apuntes sobre el lenguaje de programación Java, desde temas básicos a temas av
   * [Sección 13.11: Los Operadores Relacionales (<, <=, >, >=)](Capitulo-13/OperadoresRelacionales.md)
   * [Sección 13.12: Los operadores de igualdad (==, !=) ](Capitulo-13/OperadoresDeIgualdad.md)
   * [Sección 13.13: El operador Lambda ( -> )](Capitulo-13/OperadorLambda.md)
+* **Capitulo 14: Tipos De Datos Primitivos**
+  * [Sección 14.1: Tipos De Datos Primitivos](Capitulo-14/TiposDatosPrimitivos.md)
+  * [Sección 14.2: El Primitivo char](Capitulo-14/Primitivochar.md)
+  * [Sección 14.3: Hoja De Trucos De Tipos Primitivos](Capitulo-14/TrucosDelTipoPrimitivo.md)
+  * [Sección 14.4: El Primitivo float](Capitulo-14/Primitivofloat.md)
+  * [Sección 14.5: El Primitivo int](Capitulo-14/Primitivoint.md)
+  * [Sección 14.6: Conversión De Primitivos](Capitulo-14/ConvirtiendoPrimitivos.md)
+  * [Sección 14.7: Consumo De Memoria De Primitivas Frente A Boxed primitivos](Capitulo-14/ConsumoMemoriaPrimitivasVsBoxed.md)
+  * [Sección 14.8: El Primitivo double](Capitulo-14/Primitivodouble.md)
+  * [Sección 14.9: El Primitivo long](Capitulo-14/Primitivolong.md)
+  * [Sección 14.10: El Primitivo boolean](Capitulo-14/Primitivoboolean.md)
+  * [Sección 14.11: El Primitivo byte](Capitulo-14/Primitivobyte.md)
+  * [Sección 14.12: Representación De Valor Negativo](Capitulo-14/RepresentacionValorNegativo.md)
+  * [Sección 14.13: El Primitivo short](Capitulo-14/Primitivoshort.md)
   
   
   

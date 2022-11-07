@@ -1,0 +1,2 @@
+# Tipos De Datos Primitivos
+Los 8 tipos de datos primitivos `byte`, `short`, `int`, `long`, `char`, `boolean`, `float` y `double` son los tipos que almacenan la mayoría de los datos numéricos sin procesar en los programas Java.
