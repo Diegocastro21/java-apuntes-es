@@ -68,7 +68,16 @@ Apuntes sobre el lenguaje de programación Java, desde temas básicos a temas av
   * [Sección 11.4: Modificación del Time](Capitulo-11/ModificacionTime.md)
   * [Sección 11.5: Zonas Horarias Y Su Tiempo De Diferencia](Capitulo-11/ZonasHorariasYTiempoDeDiferencia.md)
 * **Capítulo 12: Literals**
-  * 
+  * [Sección 12.1: Literals](Capitulo-12/Literals.md)
+  * [Sección 12.2: Uso De El Guión De Suelo Para Mejorar La Legibilidad](Capitulo-12/UsarGuioDeSueloParaMejorLegibilidad.md)
+  * [Sección 12.3: Hexadecimal, Octal Y Binary literals](Capitulo-12/HexadecimalOctalYBinarioLiterals.md)
+  * [Sección 12.4: Boolean Literals](Capitulo-12/BooleanLiterals.md)
+  * [Sección 12.5: String Literals](Capitulo-12/StringLiterals.md)
+  * [Sección 12.6: El Null Literal](Capitulo-12/ElLiteralNull.md)
+  * [Sección 12.7: Escape De Secuencias En Literals](Capitulo-12/EscapeDeSecuenciasEnLiterals.md)
+  * [Sección 12.8: Character Literals](Capitulo-12/CharacterLiterals.md)
+  * [Sección 12.9: Decimal Enteros Literals](Capitulo-12/DecimalIntegerLiterals.md)
+  * [Sección 12.10: Floating-point Literals](Capitulo-12/PuntoFlotanteLiterals.md)
   
   
   

@@ -78,6 +78,20 @@ Apuntes sobre el lenguaje de programación Java, desde temas básicos a temas av
   * [Sección 12.8: Character Literals](Capitulo-12/CharacterLiterals.md)
   * [Sección 12.9: Decimal Enteros Literals](Capitulo-12/DecimalIntegerLiterals.md)
   * [Sección 12.10: Floating-point Literals](Capitulo-12/PuntoFlotanteLiterals.md)
+* **Capítulo 13: Operadores**
+  * [Sección 13.1: Operadores](Capitulo-13/Operadores.md)
+  * [Sección 13.2: Los operadores de incremento/decremento ( ++ / -- )](Capitulo-13/OperadoresDeIncrementoYDecremento.md)
+  * [Sección 13.3: El Operador Condicional (? :) O Ternario](Capitulo-13/OperadorCondicionalOTernario.md)
+  * [Sección 13.4: Los Operadores Bitwise y lógicos (~, &, |, ^)](Capitulo-13/OperadoresBitwiseYLogicos.md)
+  * [Sección 13.5: El Operador De Concatenación De String (+)](Capitulo-13/ElOperadorConcantenacionString.md)
+  * [Sección 13.6: Los Operadores Aritméticos (+, -, *, /, %)](Capitulo-13/OperadoresAritmeticos.md)
+  * [Sección 13.7: Los operadores de Shift (<<, >> y >>>)](Capitulo-13/ShiftOperador.md)
+  * [Sección 13.8: El Operador Intanceof](Capitulo-13/OperadorIntanceof.md)
+  * [Sección 13.9: Los Operadores De Asignación (=, +=, -=, *=, /=, %=, <<=, >>= , >>>=, &=, |= y ^=)](Capitulo-13/OperadoresAsignacion.md)
+  * [Sección 13.10: Operador Condicional-And y Condicional-or (&& y ||)](Capitulo-13/OperadorCondicionalAndYOr.md)
+  * [Sección 13.11: Los Operadores Relacionales (<, <=, >, >=)](Capitulo-13/OperadoresRelacionales.md)
+  * [Sección 13.12: Los operadores de igualdad (==, !=) ](Capitulo-13/OperadoresDeIgualdad.md)
+  * [Sección 13.13: El operador Lambda ( -> )](Capitulo-13/OperadorLambda.md)
   
   
   
