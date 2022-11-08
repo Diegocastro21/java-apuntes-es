@@ -92,7 +92,7 @@ Apuntes sobre el lenguaje de programación Java, desde temas básicos a temas av
   * [Sección 13.11: Los Operadores Relacionales (<, <=, >, >=)](Capitulo-13/OperadoresRelacionales.md)
   * [Sección 13.12: Los operadores de igualdad (==, !=) ](Capitulo-13/OperadoresDeIgualdad.md)
   * [Sección 13.13: El operador Lambda ( -> )](Capitulo-13/OperadorLambda.md)
-* **Capitulo 14: Tipos De Datos Primitivos**
+* **Capítulo 14: Tipos De Datos Primitivos**
   * [Sección 14.1: Tipos De Datos Primitivos](Capitulo-14/TiposDatosPrimitivos.md)
   * [Sección 14.2: El Primitivo char](Capitulo-14/Primitivochar.md)
   * [Sección 14.3: Hoja De Trucos De Tipos Primitivos](Capitulo-14/TrucosDelTipoPrimitivo.md)
@@ -106,6 +106,12 @@ Apuntes sobre el lenguaje de programación Java, desde temas básicos a temas av
   * [Sección 14.11: El Primitivo byte](Capitulo-14/Primitivobyte.md)
   * [Sección 14.12: Representación De Valor Negativo](Capitulo-14/RepresentacionValorNegativo.md)
   * [Sección 14.13: El Primitivo short](Capitulo-14/Primitivoshort.md)
+* **Capítulo 15: Constructores**
+  * [Sección 15.1: Constructores](Capitulo-15/Constructor.md)
+  * [Sección 15.2: Constructor Por Default](Capitulo-15/ConstructorPorDefault.md)
+  * [Sección 15.3: Llamada Al Constructor Padre](Capitulo-15/LLamadaConstructorPadre.md)
+  * [Sección 15.4: Constructor Con Argumentos](Capitulo-15/ConstructorConArgumentos.md)
+  
   
   
   
